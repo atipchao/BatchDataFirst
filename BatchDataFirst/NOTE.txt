@@ -3,7 +3,7 @@ C# Batch console EF-Data First style.
 
 1. Create a Net Standard Consloe C#
 2. In your project, RIGHT-CLICK for "Manage NUGET PACKAGE", and be sure to add "EnitityFrameWork" (Standard - not core in my case). 
-3. In Your App.Config, be sure that you have Connextion string for EF-Datafirst style! 
+3. In Your App.Config, be sure that you have Connection string for EF-Datafirst style! 
 They aren't the same as EF-EDMX style - see below.
 
 <connectionStrings>    
